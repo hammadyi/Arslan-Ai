@@ -4,7 +4,7 @@ const crypto = require("crypto");
 
 // 🔐 Anti-Tamper & Clone Protection
 const botName = "Arslan-MD";
-const ownerNumber = "923237045919";
+const ownerNumber = "923035542823";
 const securityHash = "a1b2c3d4e5f6g7h8i9j0"; // Change this to your unique hash
 
 // 🚨 Security Check
